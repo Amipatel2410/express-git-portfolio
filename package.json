@@ -1,0 +1,11 @@
+{
+  "name": "express-git-portfolio",
+  "version": "1.0.0",
+  "description": "my express-git-portfolio page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amisha Patel",
+  "license": "ISC"
+}
